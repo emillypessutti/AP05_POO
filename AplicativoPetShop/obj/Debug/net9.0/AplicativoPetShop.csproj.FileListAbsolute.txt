@@ -1,0 +1,14 @@
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\bin\Debug\net9.0\AplicativoPetShop.exe
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\bin\Debug\net9.0\AplicativoPetShop.deps.json
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\bin\Debug\net9.0\AplicativoPetShop.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\bin\Debug\net9.0\AplicativoPetShop.dll
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\bin\Debug\net9.0\AplicativoPetShop.pdb
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.dll
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\refint\AplicativoPetShop.dll
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.pdb
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\AplicativoPetShop.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AplicativoDePetShopPOO\AplicativoPetShop\obj\Debug\net9.0\ref\AplicativoPetShop.dll
