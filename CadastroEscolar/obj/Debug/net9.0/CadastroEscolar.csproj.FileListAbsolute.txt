@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\bin\Debug\net9.0\CadastroEscolar.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\refint\CadastroEscolar.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\CadastroEscolar.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\CadastroEscolar\obj\Debug\net9.0\ref\CadastroEscolar.dll
