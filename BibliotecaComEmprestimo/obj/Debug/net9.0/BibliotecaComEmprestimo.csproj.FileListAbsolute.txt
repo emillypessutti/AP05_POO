@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\bin\Debug\net9.0\BibliotecaComEmprestimo.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\bin\Debug\net9.0\BibliotecaComEmprestimo.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\bin\Debug\net9.0\BibliotecaComEmprestimo.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\bin\Debug\net9.0\BibliotecaComEmprestimo.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\bin\Debug\net9.0\BibliotecaComEmprestimo.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\refint\BibliotecaComEmprestimo.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\BibliotecaComEmprestimo.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\BibliotecaComEmprestimo\obj\Debug\net9.0\ref\BibliotecaComEmprestimo.dll

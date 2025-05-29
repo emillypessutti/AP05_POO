@@ -8,8 +8,8 @@ public class Leitor
 
     public List<Emprestimo> Emprestimos = new();
 
-    public void AdicionarEmprestimo(Emprestimo emprestimo)
+    public Leitor(string nome)
     {
-        Emprestimos.Add(emprestimo);
-    }   
+        Nome = nome;
+    }
 }
