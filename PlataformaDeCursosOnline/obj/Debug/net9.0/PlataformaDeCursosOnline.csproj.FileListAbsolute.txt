@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\bin\Debug\net9.0\PlataformaDeCursosOnline.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\bin\Debug\net9.0\PlataformaDeCursosOnline.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\bin\Debug\net9.0\PlataformaDeCursosOnline.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\bin\Debug\net9.0\PlataformaDeCursosOnline.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\bin\Debug\net9.0\PlataformaDeCursosOnline.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\refint\PlataformaDeCursosOnline.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\PlataformaDeCursosOnline.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeCursosOnline\obj\Debug\net9.0\ref\PlataformaDeCursosOnline.dll
