@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\bin\Debug\net9.0\VendasComComposicao.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\bin\Debug\net9.0\VendasComComposicao.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\bin\Debug\net9.0\VendasComComposicao.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\bin\Debug\net9.0\VendasComComposicao.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\bin\Debug\net9.0\VendasComComposicao.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\refint\VendasComComposicao.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\VendasComComposicao.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VendasComComposicao\obj\Debug\net9.0\ref\VendasComComposicao.dll
