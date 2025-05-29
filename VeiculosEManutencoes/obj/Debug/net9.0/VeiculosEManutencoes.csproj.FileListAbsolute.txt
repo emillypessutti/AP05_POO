@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\bin\Debug\net9.0\VeiculosEManutencoes.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\bin\Debug\net9.0\VeiculosEManutencoes.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\bin\Debug\net9.0\VeiculosEManutencoes.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\bin\Debug\net9.0\VeiculosEManutencoes.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\bin\Debug\net9.0\VeiculosEManutencoes.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\refint\VeiculosEManutencoes.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\VeiculosEManutencoes.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\VeiculosEManutencoes\obj\Debug\net9.0\ref\VeiculosEManutencoes.dll
