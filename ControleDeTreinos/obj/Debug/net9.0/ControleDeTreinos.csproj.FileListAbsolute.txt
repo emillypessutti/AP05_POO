@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\bin\Debug\net9.0\ControleDeTreinos.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\bin\Debug\net9.0\ControleDeTreinos.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\bin\Debug\net9.0\ControleDeTreinos.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\bin\Debug\net9.0\ControleDeTreinos.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\bin\Debug\net9.0\ControleDeTreinos.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\refint\ControleDeTreinos.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ControleDeTreinos.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\ControleDeTreinos\obj\Debug\net9.0\ref\ControleDeTreinos.dll
