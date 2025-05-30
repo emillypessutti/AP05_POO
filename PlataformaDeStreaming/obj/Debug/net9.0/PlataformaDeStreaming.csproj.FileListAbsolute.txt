@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\bin\Debug\net9.0\PlataformaDeStreaming.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\bin\Debug\net9.0\PlataformaDeStreaming.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\bin\Debug\net9.0\PlataformaDeStreaming.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\bin\Debug\net9.0\PlataformaDeStreaming.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\bin\Debug\net9.0\PlataformaDeStreaming.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\refint\PlataformaDeStreaming.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\PlataformaDeStreaming.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\PlataformaDeStreaming\obj\Debug\net9.0\ref\PlataformaDeStreaming.dll
