@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\bin\Debug\net9.0\SistemaDeRecrutamento.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\bin\Debug\net9.0\SistemaDeRecrutamento.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\bin\Debug\net9.0\SistemaDeRecrutamento.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\bin\Debug\net9.0\SistemaDeRecrutamento.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\bin\Debug\net9.0\SistemaDeRecrutamento.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\refint\SistemaDeRecrutamento.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\SistemaDeRecrutamento.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\SistemaDeRecrutamento\obj\Debug\net9.0\ref\SistemaDeRecrutamento.dll
