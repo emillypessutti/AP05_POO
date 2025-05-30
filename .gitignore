@@ -1,0 +1,34 @@
+# Arquivos e pastas do sistema
+.DS_Store
+Thumbs.db
+
+# Diretórios de build
+/bin/
+/build/
+/dist/
+/out/
+
+# Dependências
+/node_modules/
+/venv/
+/env/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Arquivos de sistema operacional
+ehthumbs.db
+Desktop.ini
+
+# Outros arquivos pessoais
+*.bak
+*.old
+*.orig
