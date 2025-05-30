@@ -1,4 +1,4 @@
-# AP05 - Problemas de Programação Orientada a Objetos (Associações e Herança)
+# Problemas de Programação Orientada a Objetos (Associações e Herança)
 **Equipe: Emilly Pessutti**
 
 Este repositório reúne projetos desenvolvidos para a atividade AP05 da disciplina de Programação Orientada a Objetos (POO). Cada pasta contém um sistema independente, com exemplos práticos de conceitos de POO em C#.
