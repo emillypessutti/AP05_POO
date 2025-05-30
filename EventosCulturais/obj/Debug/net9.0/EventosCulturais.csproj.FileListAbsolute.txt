@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\bin\Debug\net9.0\EventosCulturais.exe
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\bin\Debug\net9.0\EventosCulturais.deps.json
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\bin\Debug\net9.0\EventosCulturais.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\bin\Debug\net9.0\EventosCulturais.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\bin\Debug\net9.0\EventosCulturais.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.sourcelink.json
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\refint\EventosCulturais.dll
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.pdb
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\EventosCulturais.genruntimeconfig.cache
+C:\Users\PC\Documents\GitHub\AP05_POO\EventosCulturais\obj\Debug\net9.0\ref\EventosCulturais.dll
