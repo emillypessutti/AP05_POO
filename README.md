@@ -18,8 +18,13 @@ Este repositório reúne projetos desenvolvidos para a atividade AP05 da discipl
 
 ## Como executar
 
-1. Escolha a pasta do projeto desejado.
-2. No terminal, navegue até a pasta e execute:
+1. Clone este repositório (ou baixe o ZIP) para o seu computador.
+2. Abra o seu terminal ou console.
+3. Escolha o projeto que deseja executar e navegue até a pasta correspondente. Por exemplo, para o projeto AplicativoPetShop:
+```
+cd AplicativoPetShop
+```
+4. Uma vez dentro da pasta do projeto, execute o comando:
 ```
 dotnet run
 ```
